@@ -1,4 +1,4 @@
-#Qn.8
+
 start= (4)
 end=(32)
 print (f"prime number between {start} and {end}are: ")
